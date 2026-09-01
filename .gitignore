@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Generated datasets, runs, and checkpoints
+srn/data/
+outputs/
+wandb/
